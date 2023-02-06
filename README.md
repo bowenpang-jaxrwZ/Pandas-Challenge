@@ -1,4 +1,4 @@
-# Week3 Pandas Challenge - PyCitySchools
+# Week4 Pandas Challenge - PyCitySchools
 
 ## Background
 You are the new Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
